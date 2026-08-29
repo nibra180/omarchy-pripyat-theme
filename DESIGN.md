@@ -2,7 +2,7 @@
 
 ## The idea
 
-Pripyat should feel stark, industrial, and weathered without turning the Chernobyl catastrophe into novelty. Near-black green surfaces suggest soot and protective clothing. Concrete haze keeps text readable, oxidized steel separates informational states, and radiation yellow is reserved for focus and warnings.
+Pripyat draws visual inspiration from the HBO miniseries *Chernobyl*. It should feel stark, industrial, and weathered without turning the catastrophe into novelty. Near-black green surfaces suggest soot and protective clothing. Concrete haze keeps text readable, oxidized steel separates informational states, and radiation yellow is reserved for focus and warnings.
 
 ## Source
 

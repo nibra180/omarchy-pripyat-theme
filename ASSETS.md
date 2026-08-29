@@ -14,4 +14,4 @@ These files are licensed under the [Creative Commons Attribution 4.0 Internation
 
 When redistributing them, credit "Pripyat artwork by nibra180" and link to <https://github.com/nibra180/omarchy-pripyat-theme>.
 
-Pripyat treats the Chernobyl catastrophe and cleanup workers as historical subjects. This project is independent and does not imply endorsement by OpenAI or any government, institution, museum, or organization associated with Chernobyl.
+Pripyat treats the Chernobyl catastrophe and cleanup workers as historical subjects and draws visual inspiration from the HBO miniseries *Chernobyl*. This project is independent and does not imply endorsement by HBO, Sky, the series creators, OpenAI, or any government, institution, museum, or organization associated with Chernobyl.

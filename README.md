@@ -1,6 +1,6 @@
 # Pripyat for Omarchy
 
-Pripyat is a dark Omarchy theme built around Chernobyl cleanup imagery and the abandoned city. Soot-black green surfaces follow the protective suits and ruined buildings. Concrete haze supplies the text ramp, oxidized steel supplies cool accents, and radiation yellow marks focus and warnings.
+Pripyat is a dark Omarchy theme inspired by the visual atmosphere of the HBO miniseries *Chernobyl*. Its cleanup imagery and abandoned city shape soot-black green surfaces around protective suits and ruined buildings. Concrete haze supplies the text ramp, oxidized steel supplies cool accents, and radiation yellow marks focus and warnings.
 
 ![Pripyat desktop preview](preview.png)
 
@@ -41,7 +41,7 @@ Omarchy generates terminal, Hyprland, editor, Pi, Obsidian, keyboard, and VS Cod
 
 ## Artwork and affiliation
 
-The wallpapers were created by nibra180 using ChatGPT. The README-sized images and gallery preview were derived from that artwork by nibra180. Pripyat treats the Chernobyl catastrophe and cleanup workers as historical subjects and is not affiliated with or endorsed by OpenAI or any institution associated with Chernobyl. See [ASSETS.md](ASSETS.md) for attribution details.
+The wallpapers were created by nibra180 using ChatGPT. The README-sized images and gallery preview were derived from that artwork by nibra180. Pripyat treats the Chernobyl catastrophe and cleanup workers as historical subjects. This independent project is inspired by the HBO miniseries *Chernobyl* but is not affiliated with or endorsed by HBO, Sky, the series creators, OpenAI, or any institution associated with Chernobyl. See [ASSETS.md](ASSETS.md) for attribution details.
 
 ## License
 
