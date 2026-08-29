@@ -1,0 +1,75 @@
+# Pripyat palette derived from the Chernobyl cleanup wallpaper.
+# Soot, wet concrete, oxidized steel, pale haze, and radiation yellow.
+
+mode = "dark"
+theme_type = "dark"
+
+# Core UI roles
+accent = "#D6D85F"
+cursor = "#F2F4E6"
+foreground = "#D7DBC5"
+background = "#111714"
+selection_foreground = "#F2F4E6"
+selection_background = "#34463E"
+
+# Semantic surface ramp
+bg = "#111714"
+darker_bg = "#080C0A"
+dark_bg = "#0D1210"
+lighter_bg = "#28342F"
+selection = "#34463E"
+muted = "#637268"
+dark_fg = "#9CA594"
+fg = "#D7DBC5"
+light_fg = "#E4E7D5"
+bright_fg = "#F2F4E6"
+
+# Legacy semantic aliases
+darker_background = "#080C0A"
+dark_background = "#0D1210"
+lighter_background = "#28342F"
+dark_foreground = "#9CA594"
+light_foreground = "#E4E7D5"
+bright_foreground = "#F2F4E6"
+
+# ANSI and application accents
+red = "#C06F52"
+green = "#94B86B"
+yellow = "#D6D85F"
+blue = "#6F9C98"
+magenta = "#A6A17D"
+cyan = "#83B8AD"
+orange = "#C79558"
+brown = "#796B4D"
+purple = "#8F8970"
+
+bright_red = "#E08A67"
+bright_green = "#B8DA82"
+bright_yellow = "#EFF078"
+bright_blue = "#91C1BB"
+bright_magenta = "#C8C39A"
+bright_cyan = "#A5DDD1"
+
+# Exact ANSI slots
+color0 = "#111714"
+color1 = "#C06F52"
+color2 = "#94B86B"
+color3 = "#D6D85F"
+color4 = "#6F9C98"
+color5 = "#A6A17D"
+color6 = "#83B8AD"
+color7 = "#D7DBC5"
+color8 = "#637268"
+color9 = "#E08A67"
+color10 = "#B8DA82"
+color11 = "#EFF078"
+color12 = "#91C1BB"
+color13 = "#C8C39A"
+color14 = "#A5DDD1"
+color15 = "#F2F4E6"
+
+# Shared desktop presentation
+hyprland_active_border = "rgb(d6d85f)"
+hyprland_inactive_border = "rgba(63726888)"
+active_border_color = "#D6D85F"
+active_tab_background = "#28342F"
