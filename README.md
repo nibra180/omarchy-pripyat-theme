@@ -14,6 +14,10 @@ Pripyat is a dark Omarchy theme inspired by the visual atmosphere of the HBO min
 
 ![Pripyat city wallpaper](assets/wallpaper-pripyat-preview.jpg)
 
+### Reactor ground-level alternate
+
+![Chernobyl reactor ground-level wallpaper](assets/wallpaper-reactor-groundlevel-preview.jpg)
+
 ## Install
 
 ```bash
@@ -31,7 +35,7 @@ omarchy theme set pripyat
 - `colors.toml` defines the complete Omarchy semantic and ANSI palette.
 - `shell.toml` applies the palette to the bar, launcher, menus, notifications, lock screen, and controls.
 - `btop.theme`, `chromium.theme`, and `icons.theme` cover app-specific details.
-- `backgrounds/` contains two 6880x2880 wallpapers; the cleanup workers image is the default.
+- `backgrounds/` contains three 6880x2880 wallpapers; the cleanup workers image is the default.
 - `assets/` contains README-sized wallpaper previews.
 - `preview.png` is an anonymous 1800x1012 desktop capture showing the theme across Neovim, terminal, system-monitor, and Chromium windows.
 - `DESIGN.md` records the palette sources, usage rules, and release checklist.

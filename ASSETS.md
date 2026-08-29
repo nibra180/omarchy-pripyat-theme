@@ -4,6 +4,7 @@ The following wallpapers were created by nibra180 using ChatGPT in 2026:
 
 - `backgrounds/pripyat-00-cleanup-workers.jpg`
 - `backgrounds/pripyat-01-city.png`
+- `backgrounds/pripyat-02-reactor-groundlevel.png`
 
 The following previews were created by nibra180 from the wallpaper artwork and Pripyat theme presentation:
 
