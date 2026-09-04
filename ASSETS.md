@@ -10,6 +10,7 @@ The following previews were created by nibra180 from the wallpaper artwork and P
 
 - `assets/*.jpg` (README-sized wallpaper previews)
 - `preview.png`
+- `preview.webp`
 
 These files are licensed under the [Creative Commons Attribution 4.0 International License](LICENSES/CC-BY-4.0.txt).
 

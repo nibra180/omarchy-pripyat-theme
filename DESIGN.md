@@ -51,5 +51,7 @@ Both wallpapers were created by nibra180 using ChatGPT. The primary 6880x2880 wa
 - Check Chromium, VS Code, Neovim, Helix, Pi, and Obsidian.
 - Confirm the cleanup workers wallpaper is selected by default and the Pripyat wallpaper remains available as the alternate.
 - Keep `preview.png` at 1800x1012 and free of local account, process, and hardware data.
+- Keep `preview.webp` at 1200x675 and under about 100KB for the omarchy.org/themes listing.
 - Keep the wallpaper and preview attribution in `ASSETS.md` current.
 - Reinstall from a clean Git URL to test Omarchy's restricted-theme path.
+- List the theme with a pull request to [omacom/omarchy-site](https://github.com/omacom/omarchy-site): add `assets/themes/pripyat.webp` and an alphabetical figure in `themes/index.html`.
